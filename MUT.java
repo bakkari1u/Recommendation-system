@@ -19,7 +19,7 @@ public class MUT {
 		
 		
 		// l'ouverture ,lecture de fichier.
-		InputStream flux=new FileInputStream("Log-clients-themes.txt"); 
+		InputStream flux=new FileInputStream("log_clients_themes.txt"); 
 		InputStreamReader lecture=new InputStreamReader(flux);
 		BufferedReader buff=new BufferedReader(lecture);
 		String ligne;
@@ -51,7 +51,7 @@ public class MUT {
 				String them;
 				int nbr=0;
 				
-				InputStream fluxs=new FileInputStream("Log-clients-themes.txt"); 
+				InputStream fluxs=new FileInputStream("log_clients_themes.txt"); 
 				InputStreamReader lectures=new InputStreamReader(fluxs);
 				BufferedReader buffs=new BufferedReader(lectures);
 				String h;
