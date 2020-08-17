@@ -21,3 +21,9 @@ Voici les différentes étapes :
 * Mtt : matrice de distance entre thèmes
 * Mtt-binaire : une transformation binaire de Mtt
 * MutR : matrice contenant les thèmes recommandés aux usagers
+
+
+### Résultats
+
+la liste de recommandation est : Justine 6 -> bricolage
+
