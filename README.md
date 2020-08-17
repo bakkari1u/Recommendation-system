@@ -1,5 +1,5 @@
 # Recommendation-system
-Un système de recommandation de documentation
+Le but de cet exercice est de développer un système simple de recommandation de documentation.
 
 Un site web marchand propose de la documentation thématique pour ses clients (jardinage, informatique,...).
 Le fichier log du site joint en annexe (log_clients_themes.txt) nous permet d'identifier le type de documentation
