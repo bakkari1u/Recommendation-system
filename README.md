@@ -17,7 +17,7 @@ l'idée et de retrouver la relation qui lie chaque usager au nombre de thèmes q
 
 Danc cette partie nous avons extraire 5 matrices depuis une MUT founrnie pour avoir une liste de recommandation .
 Voici les différentes étapes : 
-1- MUT-binaire  : une transformation binaire de MUT
-2- Mtt : matrice de distance entre thèmes
-3- Mtt-binaire : une transformation binaire de Mtt
-4- MutR : matrice contenant les thèmes recommandés aux usagers
+* MUT-binaire  : une transformation binaire de MUT
+* Mtt : matrice de distance entre thèmes
+* Mtt-binaire : une transformation binaire de Mtt
+* MutR : matrice contenant les thèmes recommandés aux usagers
